@@ -1,4 +1,4 @@
 site_name: demo
 site_url: https://jshky.github.io/
 theme:
-  name: material
+  name: mkdocs
